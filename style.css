@@ -9,6 +9,10 @@
 .fa:hover {
   opacity: 1.0;
 }
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
 .fa-whatsapp {
   background: #00ff26;
   color: white;
