@@ -29,3 +29,10 @@ div.c {
   font-size: 20px;
   color: White;
 }
+a.button {
+background-color: red;
+color: white;
+padding: 1.5em 1em;
+text-decoration: none;
+text-transform: uppercase;
+}
