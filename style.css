@@ -36,3 +36,14 @@ padding: 1.5em 1em;
 text-decoration: none;
 text-transform: uppercase;
 }
+a:hover {
+background-color: #red;
+}
+
+a:active {
+background-color: black;
+}
+
+a:visited {
+background-color: yellow;
+}
